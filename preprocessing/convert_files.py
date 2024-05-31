@@ -2,7 +2,7 @@ import os
 import pyvips
 
 
-input_path = '../example_images/'
+input_path = '../example_images'
 output_path = '../tiff_images/'
 
 # Create output directory if not exists
